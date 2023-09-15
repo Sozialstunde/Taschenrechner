@@ -1,0 +1,5 @@
+C:\Users\nicow\Source\Repos\Sozialstunde\Taschenrechner\Testrechner+\obj\Release\Testrechner+.csproj.AssemblyReference.cache
+C:\Users\nicow\Source\Repos\Sozialstunde\Taschenrechner\Testrechner+\obj\Release\Testrechner+.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicow\Source\Repos\Sozialstunde\Taschenrechner\Testrechner+\obj\Release\Testrechner_.Form1.resources
+C:\Users\nicow\Source\Repos\Sozialstunde\Taschenrechner\Testrechner+\obj\Release\Testrechner_.Properties.Resources.resources
+C:\Users\nicow\Source\Repos\Sozialstunde\Taschenrechner\Testrechner+\obj\Release\Testrechner+.csproj.GenerateResource.cache

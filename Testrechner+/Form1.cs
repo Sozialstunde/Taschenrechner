@@ -23,6 +23,8 @@ namespace Testrechner_
             this.Icon = new Icon("taschenrechner.ico");
             this.BackColor = Color.FromArgb( 63, 63, 63 );
             this.ForeColor = Color.FromArgb( 255, 255, 255, 255 );
+            this.ShowIcon = true;
+
             //this.Font = new Font("Arial", 20);
             //this.Location = new Point( 0, 0 );
             button1.BackColor = Color.FromArgb( 63, 63, 63 );

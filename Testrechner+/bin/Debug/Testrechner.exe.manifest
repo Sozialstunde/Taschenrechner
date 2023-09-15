@@ -4,7 +4,7 @@
   <description asmv2:iconFile="taschenrechner.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Testrechner" version="1.0.0.0" publicKeyToken="582DBC60D132BF94" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Testrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Testrechner.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testrechner.exe" size="66984">
-      <assemblyIdentity name="Testrechner" version="1.0.0.0" publicKeyToken="582DBC60D132BF94" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testrechner.exe" size="66048">
+      <assemblyIdentity name="Testrechner" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DLcgGWvw85mkzp8fzfXdDTWflgpvzsCpPfGr3lKQ+dw=</dsig:DigestValue>
+        <dsig:DigestValue>mt0q42BL6gAgA3R5KX6e3FHYOSro4QIG6KJdOwto/yQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,13 @@
       <dsig:DigestValue>bvTRrQjt+LhXN1MV5JHJ8LgfmR5WU02uCwVZ4bj5VUU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Testrechner.exe.config" size="189">
+  <file name="Testrechner.exe.config" size="179">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+      <dsig:DigestValue>KK22eqIcmhgANdEql50c4Q2FO3lxhd2jbhnGHFL60ts=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
