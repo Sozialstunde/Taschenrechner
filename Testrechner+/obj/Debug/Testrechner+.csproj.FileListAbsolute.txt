@@ -1,0 +1,17 @@
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner+.csproj.AssemblyReference.cache
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner+.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner_.Form1.resources
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner_.Properties.Resources.resources
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner+.csproj.GenerateResource.cache
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner+.csproj.CoreCompileInputs.cache
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.exe.config
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.exe.manifest
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.application
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.xml
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.exe
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\bin\Debug\Testrechner.pdb
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner.TrustInfo.xml
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner.exe.manifest
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner.application
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner.exe
+C:\Users\nicow\source\repos\Testrechner+\Testrechner+\obj\Debug\Testrechner.pdb
