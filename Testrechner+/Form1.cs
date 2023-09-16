@@ -71,7 +71,6 @@ namespace Testrechner_
             button8.Text = "8";
             button9.Text = "9";
             button10.Text = "0";
-            textBox1.Text = "";
             button11.Text = "+";
             button11.Font = new Font("Arial", 13);
             button12.Text = "-";
@@ -82,6 +81,7 @@ namespace Testrechner_
             button14.Font = new Font("Arial", 13);
             button15.Text = "=";
             button15.Font = new Font("Arial", 13);
+            textBox1.Text = "";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -197,9 +197,5 @@ namespace Testrechner_
             textBox1.Text = "";
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            Console.WriteLine($"Es wurde {e} geändert");
-        }
     }
 }
